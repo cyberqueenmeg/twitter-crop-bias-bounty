@@ -1,1 +1,3 @@
-# twitter-crop-bias-bounty
+# Twitter Crop Algorithm Bias Bounty Submission
+
+## The category I am submitting my crop bias bounty for is Economic Harm. The example I am providing here is a post by a small business owner advertising the book she is selling. The beginning of the website URL to buy the book is cropped out in the photo. Because of this, if readers are just looking at photos and not clicking on them or reading the post, the readers will not be impressed by the graphic in the post because of the poor cropping cutting off part of the words and website. Most people blame the poster for this unappealing apperance when the problem could be solved by moving the saliency model to the center of a bit oftext if it contains a bit of text that looks like a URL. In addition, the customers do not have all of the information they need to make a purchase from this graphic in this crop mode because the beginning of the website URL is cut off.

@@ -1,4 +1,4 @@
-##ReadMe:
+## ReadMe:
 The category I am submitting my crop bias bounty for is Economic Harm. As defined in the bounty rules, a submission that qualifies as a cropped photo that could cause economic harm is one that 'reduced customers, profits or growth'
 
 The example I am providing here is a post by a small business owner advertising the book she is selling. The beginning of the website URL to buy the book is cropped out in the photo. The saliency was focused on the dog on the graphic cover and not on the text displaying crucial information on how to order a book. 

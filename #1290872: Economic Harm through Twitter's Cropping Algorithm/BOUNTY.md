@@ -21,8 +21,7 @@ All supporting material is contained in the GitHub link in Evidence/Reproducibil
 
 ## Impact
 
-##Self-Grading Recommendation: 
-Description of Harm
+## Self-Grading Recommendation: 
 Decision to grade as intentional or unintentional harm: This is an unintentional harm because end users who post a graphic have no control over how it is cropped and can not change it if crucial text about a product is cut off. Therefore, this bias starts off with 8 points.
 **-Harm Base Score:** 8
 **- Harm Damage/Impact:** 1.2: This error does not affect any marginalized communities in particular, but business owners have a moderate impact because crucial information about their product is being cut away in favor of other items in the graphic.
